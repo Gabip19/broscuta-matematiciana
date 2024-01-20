@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/broscuta-matematiciana/static/css/main.e93fc8f2.css",
-    "main.js": "/broscuta-matematiciana/static/js/main.941508b5.js",
+    "main.js": "/broscuta-matematiciana/static/js/main.5bef359b.js",
     "static/js/787.692a9100.chunk.js": "/broscuta-matematiciana/static/js/787.692a9100.chunk.js",
     "static/media/frog.png": "/broscuta-matematiciana/static/media/frog.612424c8c714af6de31e.png",
     "static/media/lily.png": "/broscuta-matematiciana/static/media/lily.5b8d27f682de2e0ad845.png",
-    "static/media/logo.svg": "/broscuta-matematiciana/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/broscuta-matematiciana/index.html",
     "main.e93fc8f2.css.map": "/broscuta-matematiciana/static/css/main.e93fc8f2.css.map",
-    "main.941508b5.js.map": "/broscuta-matematiciana/static/js/main.941508b5.js.map",
+    "main.5bef359b.js.map": "/broscuta-matematiciana/static/js/main.5bef359b.js.map",
     "787.692a9100.chunk.js.map": "/broscuta-matematiciana/static/js/787.692a9100.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e93fc8f2.css",
-    "static/js/main.941508b5.js"
+    "static/js/main.5bef359b.js"
   ]
 }
